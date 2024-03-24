@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dsingh-nl
 - 👀 I’m interested in developing with open source
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on documentation of open source
+- 💞️ I’m looking to collaborate on open source documentation
 - 📫 How to reach me: daljit.singh[@]live.nl
 
 <!---
